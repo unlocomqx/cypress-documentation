@@ -81,6 +81,11 @@
       description: Reloads Cypress when one of the watched files changes
       link: https://github.com/bahmutov/cypress-watch-and-reload
       keywords: [file-watcher]
+      
+    - name: cypress-plugin-livereload
+      description: Reloads Cypress using livereload
+      link: https://github.com/unlocomqx/cypress-plugin-livereload
+      keywords: [livereload]
 
     - name: cypress-select-tests
       description: User space solution for grepping Cypress tests to run
